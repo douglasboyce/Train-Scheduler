@@ -1,0 +1,80 @@
+.card-default {
+    background-color:lightblue;
+    color:rgb(41, 38, 38);
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.card-header{
+    background-color: black;
+    font-family: 'arial';
+    color: white;
+    font-size:2.5em;
+}
+
+form {
+    font-family: 'arial';
+    font-size: 1.75em;
+}
+
+.form-control {
+    background-color: white;
+    border-radius: 0px;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    width: 100%;
+}
+
+.form-group:row label {
+    width: 100%;
+}
+
+
+h1 {
+    font-family: 'Arial';
+    font-size: 5em;
+}
+
+h3 {
+    font-family: 'Arial';
+    font-size: 3em;
+}
+
+.info {
+    font-family: 'Arial';
+    font-size: 1.8em;
+    padding-left: 20%;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #cccccc;
+}
+
+.jumbotron {
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+label {
+    padding-left: 1.5%;
+    width: 100vh;
+}
+
+.mb-4{
+    background-color: lightblue;
+
+}
+
+#submit{
+    background-color: blue;
+    border-radius: 0px;
+    font-size: .7em
+}
+
+#sched{
+font-family: 'Arial';
+}
+
+tbody {
+    font-family: 'Arial';
+}
